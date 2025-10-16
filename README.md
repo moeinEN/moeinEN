@@ -5,7 +5,7 @@
 - 🔭 I’m currently developing **Payment-related Embedded Systems**
 - 🌱 I’m currently learning **Go and Game Dev basics**
 - 💬 Ask me about **Video Games**
-- ⚡ Quote: **“What is a man? A miserable little pile of secrets!” -Castlevania**
+- ⚡ Quote: **“What is a man? A miserable little pile of secrets!” &nbsp;&nbsp; &#8202;—&#8202;Castlevania**
 
 
 <h3 align="left">My Stuff:</h3>
